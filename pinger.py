@@ -11,7 +11,7 @@ import os
 
 # The program involves the use of making .txt files to store data.
 # File 1: Raw Output. Never Clears
-# File 2: Daily Averages. Prints the Average and Highest Ping for that Dail
+# File 2: Daily Averages. Prints the Average and Highest Ping for that Day
 # File 3: Latency Spikes. Records date and time each time google.com pings
 #        over 250ms
 # File 4: Daily Records. Placeholder to record Raw Output for that day.
